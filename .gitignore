@@ -356,6 +356,14 @@ build/Release
 
 # Dependency directories
 node_modules/
+.expo/
+npm-debug.*
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
